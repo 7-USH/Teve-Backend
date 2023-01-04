@@ -1,0 +1,9 @@
+fastapi==0.88.0
+jose==1.0.0
+passlib==1.7.4
+pydantic==1.10.4
+python_jose==3.3.0
+SQLAlchemy==1.4.45
+python-multipart
+bcrypt
+uvicorn
