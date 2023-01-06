@@ -46,7 +46,7 @@ for hosting purpose, this backend application is hosted on [Okteto](https://www.
 
 #### Login
 
-```http
+```
   POST /login/
 ```
 
@@ -57,7 +57,7 @@ for hosting purpose, this backend application is hosted on [Okteto](https://www.
 
 #### Sign Up
 
-```http
+```
   POST /user/
 ```
 
@@ -69,7 +69,7 @@ for hosting purpose, this backend application is hosted on [Okteto](https://www.
 
 ### Get User
 
-```http
+```
   GET /user/{id}
 ```
 
@@ -80,7 +80,7 @@ for hosting purpose, this backend application is hosted on [Okteto](https://www.
 
 ### Add to Favourites
 
-```http
+```
   POST /fav/add
 ```
 
@@ -93,7 +93,7 @@ for hosting purpose, this backend application is hosted on [Okteto](https://www.
 
 ### Get Favourites
 
-```http
+```
   GET /fav/add
 ```
 
@@ -104,7 +104,7 @@ for hosting purpose, this backend application is hosted on [Okteto](https://www.
 
 ### Delete Favourite
 
-```http
+```
   DELETE /fav/delete
 ```
 
